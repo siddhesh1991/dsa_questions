@@ -18,3 +18,5 @@ def isPalindrome(string):
     stringArr = list(string)
     stringArrReverse = stringArr[::-1]
     return stringArr == stringArrReverse
+
+
